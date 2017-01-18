@@ -1,5 +1,5 @@
 # Days on Housing Market Predictor (DHMP)
-Georgetown Data Science Days on Housing Market Predictor Project
+Georgetown Data Science Days on Housing Market Predictor (DHMP) Project
 
 # Objective 
 
@@ -14,14 +14,14 @@ This project will seek to model the impact of relevant parameters on the duratio
 
 - Ingestion Code: includes codes used to ingest raw data we have gathered from different source to our SQLLite Database. 
 
-- Wrangling Code: includes codes used to wrangle the data we have ingested to our database.The code are used to clean, mearge and make raw data in to accurate format. 
+- Wrangling Code: includes codes used to wrangle the data we have ingested to our database. The code are used to clean, merge and make raw data into a useable format.
 
-- Cleaned Data: includes cleaned data set. 
+- Cleaned Data: includes wrangled data set. 
 
 - Computation and Analysis: includes codes used to compute and analyze cleaned data as well as develop models.
 
 - Testing: includes codes used to test our models and data. 
 
-- Visualization: includes files and documentation related to visualizing data and analysis. 
+- Visualization: includes files and documentation related to visualizing data. 
 
-- Applicaitons: includes codes and link to developed data product application. 
+- Applications: includes codes and link to developed data product application. 
