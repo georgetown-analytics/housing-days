@@ -1,5 +1,0 @@
-create table School_to_Property_wCloseDate
-as
-select School_to_Property.*, 'ES' || School_to_Property.GIS_ID as ES_GIS_ID, 'MS' || School_to_Property.MiddleSchoolGIS_ID as MS_GIS_ID, 'HS' || School_to_Property.HighSchoolGISID as HS_GIS_ID, sales_v2.CloseDate, sales_v2.IndexYear
-from School_to_Property
-left join sales_v2 on sales_v2.Address=School_to_Property.Street
