@@ -1,0 +1,1 @@
+Includes code used to ingest raw data, as well as to wrangle the data into a format appropriate for our database (and eventual machine learning).
