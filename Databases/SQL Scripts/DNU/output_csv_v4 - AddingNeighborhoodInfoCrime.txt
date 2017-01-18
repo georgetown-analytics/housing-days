@@ -1,0 +1,34 @@
+Monthly date format: yyyy-mm-01 (eg. 2013-10-01 )
+Exact date format: yyyy-mm-dd (eg. 2013-10-07)
+
+
+
+----QUERY----
+
+select sales_v2.*,
+MVPSF.MedianValuePerSqft,
+PHDV.PctOfHomesDecreasingInValues,
+PHIV.PctOfHomesIncreasingInValues,
+T.Turnover,
+Zhvi.Zhvi,
+FMACHPIWASDC.PriceIndex,
+FreddieMac15yr.FreddieMac15yr,
+FreddieMac5yrARM.FreddieMac5yrARM,
+FreddieMacMIMI.mimi,
+FreddieMacMIMI.mimiStatus,
+NeighborhoodInfoDC_Crime.property_crimes as PropertyCrimes,
+NeighborhoodInfoDC_Crime.violent_crimes as ViolentCrimes,
+sales_GeoCodeAddresses.goog_latitude as PropertyLatitude,
+sales_GeoCodeAddresses.goog_langitude as PropertyLongitude
+from sales_v2
+left join MVPSF on sales_v2.Zip=MVPSF.RegionName and sales_v2.IndexMonth=MVPSF.IndexMonth
+left join PHDV on sales_v2.Zip=PHDV.RegionName and sales_v2.IndexMonth=PHDV.IndexMonth
+left join PHIV on sales_v2.Zip=PHIV.RegionName and sales_v2.IndexMonth=PHIV.IndexMonth
+left join T on sales_v2.Zip=T.RegionName and sales_v2.IndexMonth=T.IndexMonth
+left join Zhvi on sales_v2.Zip=Zhvi.RegionName and sales_v2.IndexMonth=Zhvi.IndexMonth
+left join FMACHPIWASDC on sales_v2.IndexMonth=FMACHPIWASDC.IndexMonth
+left join FreddieMac15yr on sales_v2.IndexMonth=FreddieMac15yr.Month
+left join FreddieMac5yrARM on sales_v2.IndexMonth=FreddieMac5yrARM.MonthYear
+left join FreddieMacMIMI on sales_v2.IndexMonth=FreddieMacMIMI.MonthYear
+left join NeighborhoodInfoDC_Crime on sales_v2.Zip=NeighborhoodInfoDC_Crime.Zip and sales_v2.IndexYear=NeighborhoodInfoDC_Crime.Year
+left join sales_GeoCodeAddresses on sales_v2.Address=sales_GeoCodeAddresses.Address

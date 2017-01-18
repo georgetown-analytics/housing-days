@@ -1,0 +1,30 @@
+Monthly date format: yyyy-mm-01 (eg. 2013-10-01 )
+Exact date format: yyyy-mm-dd (eg. 2013-10-07)
+
+
+
+----QUERY----
+select sales.*,
+MVPSF.MedianValuePerSqft,
+PHDV.PctOfHomesDecreasingInValues,
+PHIV.PctOfHomesIncreasingInValues,
+T.Turnover,
+Zhvi.Zhvi,
+FMACHPIWASDC.PriceIndex,
+FreddieMac15yr.FreddieMac15yr,
+FreddieMac5yrARM.FreddieMac5yrARM,
+FreddieMacMIMI.mimi,
+FreddieMacMIMI.mimiStatus,
+sales_GeoCodeAddresses.goog_latitude as PropertyLatitude,
+sales_GeoCodeAddresses.goog_langitude as PropertyLongitude
+from sales
+left join MVPSF on sales.Zip=MVPSF.RegionName and sales.IndexMonth=MVPSF.IndexMonth
+left join PHDV on sales.Zip=PHDV.RegionName and sales.IndexMonth=PHDV.IndexMonth
+left join PHIV on sales.Zip=PHIV.RegionName and sales.IndexMonth=PHIV.IndexMonth
+left join T on sales.Zip=T.RegionName and sales.IndexMonth=T.IndexMonth
+left join Zhvi on sales.Zip=Zhvi.RegionName and sales.IndexMonth=Zhvi.IndexMonth
+left join FMACHPIWASDC on sales.IndexMonth=FMACHPIWASDC.IndexMonth
+left join FreddieMac15yr on sales.IndexMonth=FreddieMac15yr.Month
+left join FreddieMac5yrARM on sales.IndexMonth=FreddieMac5yrARM.MonthYear
+left join FreddieMacMIMI on sales.IndexMonth=FreddieMacMIMI.MonthYear
+left join sales_GeoCodeAddresses on sales.Address=sales_GeoCodeAddresses.Address

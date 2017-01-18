@@ -1,0 +1,10 @@
+create table SchoolDig_MapGIS_ID_1_SchoolType
+as
+select SchoolDig_Elementary.*, "ES" as SchoolType
+from SchoolDig_Elementary
+union
+select SchoolDig_High.*, "HS" as SchoolType
+from SchoolDig_High
+union
+select SchoolDig_Middle.*, "MS" as SchoolType
+from SchoolDig_Middle

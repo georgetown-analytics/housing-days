@@ -1,0 +1,29 @@
+select sales_v2.*,
+MVPSF.MedianValuePerSqft,
+PHDV.PctOfHomesDecreasingInValues,
+PHIV.PctOfHomesIncreasingInValues,
+T.Turnover,
+Zhvi.Zhvi,
+FMACHPIWASDC.PriceIndex,
+FreddieMac15yr.FreddieMac15yr,
+FreddieMac5yrARM.FreddieMac5yrARM,
+FreddieMacMIMI.mimi,
+FreddieMacMIMI.mimiStatus,
+NeighborhoodInfoDC_Crime.property_crimes as PropertyCrimes,
+NeighborhoodInfoDC_Crime.violent_crimes as ViolentCrimes,
+sales_GeoCodeAddresses.goog_latitude as PropertyLatitude,
+sales_GeoCodeAddresses.goog_langitude as PropertyLongitude,
+Distance.count_cap_gain_school_km, Distance.count_grocery_km, Distance.count_ind_school_km, Distance.count_metro_bus_km, Distance.count_metro_station_km, Distance.count_public_school_arts_center_km, Distance.count_public_school_edu_campus_km, Distance.count_public_school_elem_km, Distance.count_public_school_elem_specialized_km, Distance.count_public_school_high_km, Distance.count_public_school_high_specialized_km, Distance.count_public_school_mid_km, Distance.count_public_school_special_ed_km, Distance.count_public_school_ye_km, Distance.distance_cap_gain_school_km, Distance.distance_grocery_km, Distance.distance_ind_school_km, Distance.distance_metro_bus_km, Distance.distance_metro_station_km, Distance.distance_public_school_arts_center_km, Distance.distance_public_school_edu_campus_km, Distance.distance_public_school_elem_km, Distance.distance_public_school_elem_specialized_km, Distance.distance_public_school_high_km, Distance.distance_public_school_high_specialized_km, Distance.distance_public_school_mid_km, Distance.distance_public_school_special_ed_km, Distance.distance_public_school_ye_km
+from sales_v2
+left join MVPSF on sales_v2.Zip=MVPSF.RegionName and sales_v2.IndexMonth_ListDate=MVPSF.IndexMonth
+left join PHDV on sales_v2.Zip=PHDV.RegionName and sales_v2.IndexMonth_ListDate=PHDV.IndexMonth
+left join PHIV on sales_v2.Zip=PHIV.RegionName and sales_v2.IndexMonth_ListDate=PHIV.IndexMonth
+left join T on sales_v2.Zip=T.RegionName and sales_v2.IndexMonth_ListDate=T.IndexMonth
+left join Zhvi on sales_v2.Zip=Zhvi.RegionName and sales_v2.IndexMonth_ListDate=Zhvi.IndexMonth
+left join FMACHPIWASDC on sales_v2.IndexMonth_ListDate=FMACHPIWASDC.IndexMonth
+left join FreddieMac15yr on sales_v2.IndexMonth_ListDate=FreddieMac15yr.Month
+left join FreddieMac5yrARM on sales_v2.IndexMonth_ListDate=FreddieMac5yrARM.MonthYear
+left join FreddieMacMIMI on sales_v2.IndexMonth_ListDate=FreddieMacMIMI.MonthYear
+left join NeighborhoodInfoDC_Crime on sales_v2.Zip=NeighborhoodInfoDC_Crime.Zip and sales_v2.IndexYear_ListDate=NeighborhoodInfoDC_Crime.Year
+left join sales_GeoCodeAddresses on sales_v2.Address=sales_GeoCodeAddresses.Address
+left join Distance on sales_v2.Address=Distance.Address

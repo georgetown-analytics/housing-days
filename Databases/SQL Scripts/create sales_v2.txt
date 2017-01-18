@@ -1,0 +1,38 @@
+create table sales_v2
+as
+select field1,
+Stat,
+[ML#],
+Address,
+ListDate,
+CloseDate,
+replace(substr(ListPrice,2),",","") as ListPrice2,
+replace(substr(ClosePrice,2),",","") as ClosePrice2,
+Bedrooms,
+BathsFull,
+BathsHalf,
+Levels,
+Fireplaces,
+[BasementY/N],
+Acres,
+YearBuilt,
+DOMP,
+replace(substr(TotalTaxes,2),",","") as TotalTaxes2,
+TaxTotalLivingArea,
+Zip,
+SaleCount,
+IndexMonth,
+case when length(substr(IndexMonth,1,instr(IndexMonth,'/')-1))=1 
+then substr(IndexMonth,-4,4) || '-0' || substr(IndexMonth,1,instr(IndexMonth,'/')-1) || '-01'
+else substr(IndexMonth,-4,4) || '-' || substr(IndexMonth,1,instr(IndexMonth,'/')-1) || '-01' end
+as IndexMonth_CloseDate,
+IndexMonth2,
+case when length(substr(IndexMonth2,1,instr(IndexMonth2,'/')-1))=1 
+then substr(IndexMonth2,-4,4) || '-0' || substr(IndexMonth2,1,instr(IndexMonth2,'/')-1) || '-01'
+else substr(IndexMonth2,-4,4) || '-' || substr(IndexMonth2,1,instr(IndexMonth2,'/')-1) || '-01' end
+as IndexMonth_ListDate,
+substr(IndexMonth,-4,4) as IndexYear_CloseDate,
+substr(IndexMonth2,-4,4) as IndexYear_ListDate,
+substr(IndexMonth,1,instr(IndexMonth,'/')-1) as IndexMonth_No_CloseDate,
+substr(IndexMonth2,1,instr(IndexMonth2,'/')-1) as IndexMonth_No_ListDate
+from sales;

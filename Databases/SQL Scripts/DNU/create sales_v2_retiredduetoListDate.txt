@@ -1,0 +1,26 @@
+create table sales_v2
+as
+select field1,
+Stat,
+[ML#],
+Address,
+CloseDate,
+replace(substr(ListPrice,2),",","") as ListPrice2,
+replace(substr(ClosePrice,2),",","") as ClosePrice2,
+Bedrooms,
+BathsFull,
+BathsHalf,
+Levels,
+Fireplaces,
+[BasementY/N],
+Acres,
+YearBuilt,
+DOMP,
+replace(substr(TotalTaxes,2),",","") as TotalTaxes2,
+TaxTotalLivingArea,
+Zip,
+SaleCount,
+IndexMonth,
+substr(IndexMonth,1,4) as IndexYear,
+substr(IndexMonth,6,2) as IndexMonth_No
+from sales;

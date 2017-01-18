@@ -1,0 +1,8 @@
+create table SchoolDig_MapGIS_ID_3_FinalGIS_ID
+as
+select SchoolDig_MapGIS_ID_2_PublicSchoolsJoin.*, SchoolDig_NameIssuesMap.GIS_ID as GIS_ID2,
+case when SchoolDig_MapGIS_ID_2_PublicSchoolsJoin.GIS_ID<>'' then SchoolDig_MapGIS_ID_2_PublicSchoolsJoin.GIS_ID else
+case when SchoolDig_NameIssuesMap.GIS_ID<>'' then SchoolDig_NameIssuesMap.GIS_ID else '' end end as GIS_ID_Final
+from SchoolDig_MapGIS_ID_2_PublicSchoolsJoin
+left join SchoolDig_NameIssuesMap on SchoolDig_MapGIS_ID_2_PublicSchoolsJoin.School=SchoolDig_NameIssuesMap.SchoolDigger_SchoolName
+and SchoolDig_MapGIS_ID_2_PublicSchoolsJoin.SchoolType=SchoolDig_NameIssuesMap.SchoolType

@@ -1,0 +1,30 @@
+create table sales_v2
+as
+select field1,
+Stat,
+[ML#],
+Address,
+CloseDate,
+replace(substr(ListPrice,2),",","") as ListPrice2,
+replace(substr(ClosePrice,2),",","") as ClosePrice2,
+Bedrooms,
+BathsFull,
+BathsHalf,
+Levels,
+Fireplaces,
+[BasementY/N],
+Acres,
+YearBuilt,
+DOMP,
+replace(substr(TotalTaxes,2),",","") as TotalTaxes2,
+TaxTotalLivingArea,
+Zip,
+SaleCount,
+IndexMonth,
+substr(IndexMonth,1,4) as IndexYear,
+substr(IndexMonth,6,2) as IndexMonth_No,
+case when substr(IndexMonth,6,2)='01' or substr(IndexMonth,6,2)='02' or substr(IndexMonth,6,2)='03' or substr(IndexMonth,6,2)='04' or substr(IndexMonth,6,2)='05' or substr(IndexMonth,6,2)='06'
+then substr(IndexMonth,1,4)
+else case when substr(IndexMonth,6,2)='07' or substr(IndexMonth,6,2)='08' or substr(IndexMonth,6,2)='09' or substr(IndexMonth,6,2)='10' or substr(IndexMonth,6,2)='11' or substr(IndexMonth,6,2)='12'
+then substr(IndexMonth,1,4)-1 else null end end as IndexYear_SchoolDig
+from sales;

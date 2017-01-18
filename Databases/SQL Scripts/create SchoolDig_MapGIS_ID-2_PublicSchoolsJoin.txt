@@ -1,0 +1,5 @@
+create table SchoolDig_MapGIS_ID_2_PublicSchoolsJoin
+as
+select SchoolDig_MapGIS_ID_1_SchoolType.*, Public_Schools.GIS_ID
+from SchoolDig_MapGIS_ID_1_SchoolType
+left join Public_Schools on SchoolDig_MapGIS_ID_1_SchoolType.School = Public_Schools.NAME and SchoolDig_MapGIS_ID_1_SchoolType.SchoolType = Public_Schools.LEVEL_

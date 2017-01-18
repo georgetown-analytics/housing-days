@@ -1,0 +1,5 @@
+create table School_to_Property_wCloseDate
+as
+select School_to_Property.*, sales_v2.CloseDate, sales_v2.IndexYear
+from School_to_Property
+left join sales_v2 on sales_v2.Address=School_to_Property.Street

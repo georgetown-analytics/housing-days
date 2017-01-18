@@ -1,0 +1,14 @@
+create table SchoolDig_MapGIS_ID_4_2012Records
+as
+select SchoolDig_MapGIS_ID_3_FinalGIS_ID.*, 
+case when SchoolDig_MapGIS_ID_3_FinalGIS_ID.GIS_ID_Final<>'' 
+then SchoolDig_MapGIS_ID_3_FinalGIS_ID.SchoolType || SchoolDig_MapGIS_ID_3_FinalGIS_ID.GIS_ID_Final
+else '' end as GIS_ID_Final_wSchoolType, '2012-13' as Rank_Year2, '2013' as SchoolDig_IndexYear
+from SchoolDig_MapGIS_ID_3_FinalGIS_ID
+where SchoolDig_MapGIS_ID_3_FinalGIS_ID.Rank_Year = '2011-12'
+union 
+select SchoolDig_MapGIS_ID_3_FinalGIS_ID.*, 
+case when SchoolDig_MapGIS_ID_3_FinalGIS_ID.GIS_ID_Final<>'' 
+then SchoolDig_MapGIS_ID_3_FinalGIS_ID.SchoolType || SchoolDig_MapGIS_ID_3_FinalGIS_ID.GIS_ID_Final
+else '' end as GIS_ID_Final_wSchoolType, SchoolDig_MapGIS_ID_3_FinalGIS_ID.Rank_Year as Rank_Year2, '20' || substr(SchoolDig_MapGIS_ID_3_FinalGIS_ID.Rank_Year,-2) as SchoolDig_IndexYear
+from SchoolDig_MapGIS_ID_3_FinalGIS_ID
