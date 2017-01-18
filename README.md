@@ -8,19 +8,11 @@ This project will seek to model the impact of relevant parameters on the duratio
 
 # Project Layout 
 
-- Raw Data : includes raw datas gathered. The data will be stored in SQL Lite. 
+- Source Data : Contains all raw source data and final, wrangled .csv files loaded into database.  Ingestion & wrangling scripts are located in folders where applicable. 
 
-- Documentation: includes information regarding the source of our data and any other documentation that is related to our data.
+- Ingestion and Wrangling Scripts: Includes code used to ingest raw data, as well as to wrangle the data into a format appropriate for our database (and eventual machine learning). 
 
-- Ingestion Code: includes codes used to ingest raw data we have gathered from different source to our SQLLite Database. 
-
-- Wrangling Code: includes codes used to wrangle the data we have ingested to our database. The code are used to clean, merge and make raw data into a useable format.
-
-- Cleaned Data: includes wrangled data set. 
-
-- Computation and Analysis: includes codes used to compute and analyze cleaned data as well as develop models.
-
-- Testing: includes codes used to test our models and data. 
+- Database: Contains database, SQL scripts, and output file(s) used for machine learning.
 
 - Visualization: includes files and documentation related to visualizing data. 
 
