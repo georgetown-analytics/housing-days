@@ -1,0 +1,1 @@
+Contains database, SQL scripts, and output file(s) used for machine learning.
