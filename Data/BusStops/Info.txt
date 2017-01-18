@@ -1,0 +1,4 @@
+Data stored in db as follows:
+
+Metro_Bus_Stops_OpenDataDC -------- > on MetroBus_OpenDataDC
+MetroBus_Stops ------------ > on MetroBus_Stops

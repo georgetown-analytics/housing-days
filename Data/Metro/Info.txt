@@ -1,0 +1,4 @@
+Data stored in db as follows:
+
+Metro_Station_Entrances_Regional_OpenDataDC -------- > on MetroEntrance_OpenDataDC
+df_metro_entrances ------------ > on MetroEntrance_WMATA

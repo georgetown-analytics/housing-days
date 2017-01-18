@@ -1,0 +1,6 @@
+Data stored as follows:
+
+df_elementary_schools ----------- > on SchoolDig_Elementary
+df_middle_schools ----------- > on SchoolDig_Middle
+df_high_schools ----------- > on SchoolDig_High
+SchoolDig_NameIssuesMap ----------- > on SchoolDig_NameIssuesMap

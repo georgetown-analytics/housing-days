@@ -1,0 +1,8 @@
+Stored in db as follows...
+
+df_demographics on table: NeighborhoodInfoDC_Demo
+crime_data on table: NeighborhoodInfoDC_Crime
+
+Note from Will on wrangling process for crime_data
+
+I used power pivot, excel functions and a filter. Much faster than writing script based method. Those are not always going to be more efficient, and in this case I think excel is the best option. From here we then join it into the table with sql of course.

@@ -1,0 +1,1 @@
+Stored in db as School_to_Property

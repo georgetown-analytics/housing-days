@@ -1,0 +1,7 @@
+Stored in db as follows...
+
+FreddieMac5yrARM ----------- > on FreddieMac5yrARM
+FreddieMac15yr ------------- > on FreddieMac15yr
+FreddieMacMIMI ----------- > on FreddieMacMIMI
+FMACHPIWASDC ------------ > on FMACHPIWASDC
+

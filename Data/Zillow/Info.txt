@@ -1,0 +1,14 @@
+Stored in database as follows:
+
+Zip_Zri_AllHomes ---------- > on Zri
+Zip_Zhvi_AllHomes -------- > on Zhvi
+Sales_Zip ------- > on Sales_Zip
+Zip_HomesSoldAsForeclosures-Ratio_AllHomes --------- > on HSFR
+Zip_Listings_PriceCut_SeasAdj_AllHomes -------- > on LPCSA
+Zip_MedianSoldPricePerSqft_AllHomes ------------ > on MSPPSF
+Zip_MedianValuePerSqft_AllHomes ------- > on MVPSF
+Zip_PctOfHomesDecreasingInValues_AllHomes ------ > on PHDV
+Zip_PctOfHomesIncreasingInValues_AllHomes ------- > on PHIV
+Zip_PctTransactionsThatArePreviouslyForeclosuredHomes_AllHomes ----- > on PTPFC
+Zip_Turnover_AllHomes -------- > on T
+Zip_UnsoldReos_AllHomes ------ > on UREO

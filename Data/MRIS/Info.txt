@@ -1,0 +1,10 @@
+Stored in db on table 'sales'.
+
+'sales' data is generated as follows:
+1) We start with about 25 separate files split by zip code.
+2) Run ingestion script, which consolidates all files and adds a Zip Code column based on file name.
+3) Run wrangling script 1, which de-dupes the population, groups all records by Address, and appends a Sales Count column.  Also creates IndexMonth, based on CloseDate.
+4) Run wrangling script 2 (designed by Sabel), which provides ListDate and IndexMonth2 (which is based on ListDate).  Outputs file named "CompiledDataWithListDate" (look in Dan's local folder titled "Run3_Dan-FurtherWrangling" for this file).
+5) Rename "CompiledDateWithListDate" to "sales".
+
+Zipped folder contains each individual zipcode-level file.

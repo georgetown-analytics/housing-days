@@ -1,0 +1,554 @@
+RegionName,City,State,Metro,CountyName,SizeRank,Month,MedianRentalPricePerSqft
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2010-02,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2010-03,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2010-04,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2010-05,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2010-06,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2010-07,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2010-08,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2010-09,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2010-10,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2010-11,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2010-12,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2011-01,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2011-02,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2011-03,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2011-04,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2011-05,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2011-06,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2011-07,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2011-08,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2011-09,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2011-10,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2011-11,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2011-12,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2012-01,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2012-02,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2012-03,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2012-04,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2012-05,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2012-06,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2012-07,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2012-08,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2012-09,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2012-10,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2012-11,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2012-12,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2013-01,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2013-02,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2013-03,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2013-04,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2013-05,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2013-06,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2013-07,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2013-08,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2013-09,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2013-10,
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2013-11,2.885358
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2013-12,2.822283
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2014-01,2.777778
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2014-02,2.734431
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2014-03,2.72541
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2014-04,2.720588
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2014-05,2.909091
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2014-06,2.790279
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2014-07,2.818182
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2014-08,2.769913
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2014-09,2.698982
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2014-10,2.847682
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2014-11,2.813784
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2014-12,2.800407
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2015-01,2.562838
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2015-02,2.720588
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2015-03,2.837763
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2015-04,2.76906
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2015-05,3.011745
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2015-06,2.949438
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2015-07,2.818182
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2015-08,2.825758
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2015-09,2.838364
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2015-10,2.932099
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2015-11,2.764424
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2015-12,2.888889
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2016-01,2.942136
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2016-02,2.977204
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2016-03,2.931373
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2016-04,3
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2016-05,2.871826
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2016-06,3.028397
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2016-07,3.0429
+Columbia Heights,Washington,DC,Washington,District of Columbia,150,2016-08,2.839846
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2010-02,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2010-03,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2010-04,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2010-05,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2010-06,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2010-07,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2010-08,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2010-09,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2010-10,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2010-11,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2010-12,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2011-01,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2011-02,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2011-03,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2011-04,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2011-05,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2011-06,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2011-07,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2011-08,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2011-09,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2011-10,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2011-11,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2011-12,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2012-01,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2012-02,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2012-03,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2012-04,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2012-05,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2012-06,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2012-07,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2012-08,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2012-09,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2012-10,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2012-11,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2012-12,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2013-01,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2013-02,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2013-03,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2013-04,
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2013-05,2.672498
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2013-06,2.722818
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2013-07,2.826772
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2013-08,2.725138
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2013-09,2.651257
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2013-10,2.865674
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2013-11,2.833762
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2013-12,2.860813
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2014-01,2.773227
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2014-02,2.784091
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2014-03,2.784091
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2014-04,2.67094
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2014-05,2.78758
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2014-06,2.706845
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2014-07,2.569061
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2014-08,2.624495
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2014-09,2.645034
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2014-10,2.634672
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2014-11,2.767045
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2014-12,2.75
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2015-01,2.742165
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2015-02,2.730082
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2015-03,2.71275
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2015-04,2.767857
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2015-05,2.688914
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2015-06,2.737226
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2015-07,2.780934
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2015-08,2.886004
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2015-09,2.75
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2015-10,2.786468
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2015-11,2.887392
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2015-12,2.681792
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2016-01,2.571734
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2016-02,2.633706
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2016-03,2.575431
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2016-04,2.726776
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2016-05,2.852445
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2016-06,2.689352
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2016-07,2.666325
+Capitol Hill,Washington,DC,Washington,District of Columbia,178,2016-08,2.772172
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2010-02,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2010-03,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2010-04,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2010-05,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2010-06,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2010-07,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2010-08,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2010-09,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2010-10,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2010-11,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2010-12,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2011-01,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2011-02,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2011-03,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2011-04,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2011-05,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2011-06,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2011-07,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2011-08,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2011-09,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2011-10,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2011-11,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2011-12,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2012-01,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2012-02,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2012-03,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2012-04,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2012-05,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2012-06,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2012-07,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2012-08,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2012-09,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2012-10,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2012-11,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2012-12,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2013-01,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2013-02,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2013-03,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2013-04,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2013-05,
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2013-06,3.283267
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2013-07,3.132388
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2013-08,3.201386
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2013-09,3.182134
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2013-10,3.333333
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2013-11,3.231939
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2013-12,3.037767
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2014-01,3.053973
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2014-02,3.111433
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2014-03,3.256151
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2014-04,3.212521
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2014-05,3.37001
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2014-06,3.333333
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2014-07,3.334629
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2014-08,3.316428
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2014-09,3.250561
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2014-10,3.27865
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2014-11,3.115827
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2014-12,3.17953
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2015-01,3.207237
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2015-02,3.219363
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2015-03,3.46
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2015-04,3.424242
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2015-05,3.325994
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2015-06,3.325994
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2015-07,3.327778
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2015-08,3.269633
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2015-09,3.441667
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2015-10,3.26685
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2015-11,3.279514
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2015-12,3.26087
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2016-01,3.335925
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2016-02,3.405573
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2016-03,3.438114
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2016-04,3.373505
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2016-05,3.433996
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2016-06,3.448276
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2016-07,3.485452
+Adams Morgan,Washington,DC,Washington,District of Columbia,242,2016-08,3.166667
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2010-02,
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2010-03,
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2010-04,
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2010-05,
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2010-06,
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2010-07,
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2010-08,
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2010-09,
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2010-10,
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2010-11,
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2010-12,
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2011-01,
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2011-02,
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2011-03,
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2011-04,
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2011-05,
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2011-06,
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2011-07,
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2011-08,
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2011-09,
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2011-10,
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2011-11,
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2011-12,
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2012-01,
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2012-02,
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2012-03,
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2012-04,
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2012-05,
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2012-06,3.405241
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2012-07,3.438678
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2012-08,3.532695
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2012-09,3.037498
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2012-10,3.056973
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2012-11,3.229868
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2012-12,3.19686
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2013-01,2.927121
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2013-02,3.268484
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2013-03,3.143387
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2013-04,3.476905
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2013-05,3.564815
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2013-06,3.449264
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2013-07,3.461538
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2013-08,3.569635
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2013-09,3.744703
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2013-10,3.526448
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2013-11,3.440367
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2013-12,3.542834
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2014-01,3.430108
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2014-02,3.516624
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2014-03,3.430108
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2014-04,3.434498
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2014-05,3.571429
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2014-06,3.640058
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2014-07,3.502379
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2014-08,3.505155
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2014-09,3.526786
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2014-10,3.505155
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2014-11,3.485031
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2014-12,3.322785
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2015-01,3.520726
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2015-02,3.353659
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2015-03,3.518124
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2015-04,3.668554
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2015-05,3.659924
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2015-06,3.753328
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2015-07,3.63371
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2015-08,3.616751
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2015-09,3.519166
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2015-10,3.489848
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2015-11,3.484603
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2015-12,3.459372
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2016-01,3.682372
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2016-02,3.694675
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2016-03,3.672613
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2016-04,3.504673
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2016-05,3.761364
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2016-06,3.673469
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2016-07,3.661337
+Logan Circle,Washington,DC,Washington,District of Columbia,248,2016-08,3.673041
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2010-02,
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2010-03,
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2010-04,
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2010-05,
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2010-06,
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2010-07,
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2010-08,
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2010-09,
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2010-10,
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2010-11,
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2010-12,
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2011-01,
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2011-02,
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2011-03,
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2011-04,
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2011-05,
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2011-06,
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2011-07,
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2011-08,
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2011-09,
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2011-10,
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2011-11,
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2011-12,
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2012-01,
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2012-02,
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2012-03,
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2012-04,3.703704
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2012-05,3.581656
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2012-06,3.76722
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2012-07,3.756708
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2012-08,3.757269
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2012-09,3.651116
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2012-10,3.814433
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2012-11,3.72807
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2012-12,3.926409
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2013-01,3.815789
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2013-02,3.875
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2013-03,3.676791
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2013-04,3.774147
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2013-05,3.72973
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2013-06,3.787638
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2013-07,3.95689
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2013-08,4.280851
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2013-09,4.117043
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2013-10,3.935599
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2013-11,3.888167
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2013-12,3.744136
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2014-01,3.72973
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2014-02,3.926386
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2014-03,3.806735
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2014-04,3.703704
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2014-05,3.825623
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2014-06,3.711982
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2014-07,3.49538
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2014-08,3.60241
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2014-09,3.586066
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2014-10,3.641732
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2014-11,3.518707
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2014-12,3.571429
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2015-01,3.596774
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2015-02,3.675565
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2015-03,3.950339
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2015-04,3.937636
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2015-05,3.89016
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2015-06,3.859761
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2015-07,3.95
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2015-08,3.947281
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2015-09,3.934192
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2015-10,3.948796
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2015-11,3.947694
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2015-12,3.914591
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2016-01,3.952206
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2016-02,4.107143
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2016-03,4.101043
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2016-04,4.101043
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2016-05,4.021637
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2016-06,3.963806
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2016-07,3.97886
+Dupont Circle,Washington,DC,Washington,District of Columbia,267,2016-08,3.833039
+Georgetown,Washington,DC,Washington,District of Columbia,281,2010-02,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2010-03,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2010-04,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2010-05,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2010-06,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2010-07,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2010-08,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2010-09,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2010-10,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2010-11,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2010-12,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2011-01,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2011-02,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2011-03,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2011-04,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2011-05,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2011-06,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2011-07,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2011-08,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2011-09,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2011-10,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2011-11,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2011-12,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2012-01,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2012-02,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2012-03,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2012-04,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2012-05,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2012-06,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2012-07,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2012-08,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2012-09,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2012-10,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2012-11,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2012-12,
+Georgetown,Washington,DC,Washington,District of Columbia,281,2013-01,3.312369
+Georgetown,Washington,DC,Washington,District of Columbia,281,2013-02,3.177831
+Georgetown,Washington,DC,Washington,District of Columbia,281,2013-03,3.099648
+Georgetown,Washington,DC,Washington,District of Columbia,281,2013-04,3.246753
+Georgetown,Washington,DC,Washington,District of Columbia,281,2013-05,3.223377
+Georgetown,Washington,DC,Washington,District of Columbia,281,2013-06,3.306524
+Georgetown,Washington,DC,Washington,District of Columbia,281,2013-07,3.382786
+Georgetown,Washington,DC,Washington,District of Columbia,281,2013-08,3.265977
+Georgetown,Washington,DC,Washington,District of Columbia,281,2013-09,3.076923
+Georgetown,Washington,DC,Washington,District of Columbia,281,2013-10,3.069054
+Georgetown,Washington,DC,Washington,District of Columbia,281,2013-11,2.96875
+Georgetown,Washington,DC,Washington,District of Columbia,281,2013-12,3.068399
+Georgetown,Washington,DC,Washington,District of Columbia,281,2014-01,3.210318
+Georgetown,Washington,DC,Washington,District of Columbia,281,2014-02,3.384615
+Georgetown,Washington,DC,Washington,District of Columbia,281,2014-03,3.384615
+Georgetown,Washington,DC,Washington,District of Columbia,281,2014-04,3.375
+Georgetown,Washington,DC,Washington,District of Columbia,281,2014-05,3.283256
+Georgetown,Washington,DC,Washington,District of Columbia,281,2014-06,3.285968
+Georgetown,Washington,DC,Washington,District of Columbia,281,2014-07,3.37893
+Georgetown,Washington,DC,Washington,District of Columbia,281,2014-08,3.338171
+Georgetown,Washington,DC,Washington,District of Columbia,281,2014-09,3.289474
+Georgetown,Washington,DC,Washington,District of Columbia,281,2014-10,3.599222
+Georgetown,Washington,DC,Washington,District of Columbia,281,2014-11,3.439158
+Georgetown,Washington,DC,Washington,District of Columbia,281,2014-12,3.218999
+Georgetown,Washington,DC,Washington,District of Columbia,281,2015-01,3.205708
+Georgetown,Washington,DC,Washington,District of Columbia,281,2015-02,3.205708
+Georgetown,Washington,DC,Washington,District of Columbia,281,2015-03,3.487573
+Georgetown,Washington,DC,Washington,District of Columbia,281,2015-04,3.48
+Georgetown,Washington,DC,Washington,District of Columbia,281,2015-05,3.470588
+Georgetown,Washington,DC,Washington,District of Columbia,281,2015-06,3.381963
+Georgetown,Washington,DC,Washington,District of Columbia,281,2015-07,3.387223
+Georgetown,Washington,DC,Washington,District of Columbia,281,2015-08,3.347458
+Georgetown,Washington,DC,Washington,District of Columbia,281,2015-09,3.246753
+Georgetown,Washington,DC,Washington,District of Columbia,281,2015-10,3.163465
+Georgetown,Washington,DC,Washington,District of Columbia,281,2015-11,3.234488
+Georgetown,Washington,DC,Washington,District of Columbia,281,2015-12,3.325225
+Georgetown,Washington,DC,Washington,District of Columbia,281,2016-01,3.363104
+Georgetown,Washington,DC,Washington,District of Columbia,281,2016-02,3.569588
+Georgetown,Washington,DC,Washington,District of Columbia,281,2016-03,3.37197
+Georgetown,Washington,DC,Washington,District of Columbia,281,2016-04,3.4375
+Georgetown,Washington,DC,Washington,District of Columbia,281,2016-05,3.738318
+Georgetown,Washington,DC,Washington,District of Columbia,281,2016-06,3.555556
+Georgetown,Washington,DC,Washington,District of Columbia,281,2016-07,3.538462
+Georgetown,Washington,DC,Washington,District of Columbia,281,2016-08,3.597651
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2010-02,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2010-03,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2010-04,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2010-05,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2010-06,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2010-07,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2010-08,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2010-09,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2010-10,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2010-11,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2010-12,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2011-01,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2011-02,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2011-03,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2011-04,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2011-05,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2011-06,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2011-07,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2011-08,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2011-09,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2011-10,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2011-11,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2011-12,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2012-01,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2012-02,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2012-03,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2012-04,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2012-05,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2012-06,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2012-07,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2012-08,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2012-09,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2012-10,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2012-11,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2012-12,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2013-01,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2013-02,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2013-03,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2013-04,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2013-05,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2013-06,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2013-07,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2013-08,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2013-09,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2013-10,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2013-11,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2013-12,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2014-01,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2014-02,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2014-03,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2014-04,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2014-05,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2014-06,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2014-07,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2014-08,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2014-09,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2014-10,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2014-11,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2014-12,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2015-01,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2015-02,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2015-03,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2015-04,
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2015-05,3.409091
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2015-06,3.518213
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2015-07,3.505099
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2015-08,3.515599
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2015-09,3.550827
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2015-10,3.5
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2015-11,3.36594
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2015-12,3.295455
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2016-01,3.305085
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2016-02,3.436426
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2016-03,3.255482
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2016-04,3.270224
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2016-05,3.445596
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2016-06,3.58179
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2016-07,3.625729
+Foggy Bottom,Washington,DC,Washington,District of Columbia,284,2016-08,3.762528

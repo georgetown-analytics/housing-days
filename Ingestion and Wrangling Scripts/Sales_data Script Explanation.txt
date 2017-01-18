@@ -1,0 +1,13 @@
+Sales_data_ingestion
+This script creates a Zip Code column based on file name and then saves a file for each zip code (note that in the raw dataset, there are some zip codes with multiple .csvs; this script takes care of that issue).  It then stacks every csv on top of one another in a "merged file".
+
+Sales_data_wrangling1
+Drops any records that share the same Address and Close Date (de-dupe).
+Drops any records with DOMP <> 0
+Groups all records by Address; this ensures that every instance is a property address, NOT a Sales Listing (in other words, 1 record per Address)
+Generates a "Sales Count" column applied against each address (values >1 imply that the Address has been sold multiple times)
+Generates "Index Month" based on CloseDate.
+
+Sales_data_wrangling2
+Creates ListDate by subtracting DOMP from CloseDate.
+Creates IndexMonth2, which is the same as IndexMonth only based instead on ListDate.
